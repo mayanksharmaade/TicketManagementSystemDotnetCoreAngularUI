@@ -1,0 +1,60 @@
+<div class="dashboard-layout">
+  <aside class="sidebar">
+    <div class="sidebar-brand"><span>🎫</span><span>TicketCycle</span></div>
+    <nav class="sidebar-nav">
+      <a class="nav-item active" routerLink="/dashboard/tester"><span>📊</span> Dashboard</a>
+      <a class="nav-item" routerLink="/tickets/board"><span>📋</span> Kanban Board</a>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-info">
+        <div class="user-avatar">{{ authService.currentUser?.fullName?.charAt(0) }}</div>
+        <div>
+          <div class="user-name">{{ authService.currentUser?.fullName }}</div>
+          <div class="user-role">{{ authService.currentUser?.role }}</div>
+        </div>
+      </div>
+      <button class="btn-logout" (click)="logout()">Logout</button>
+    </div>
+  </aside>
+
+  <main class="main-content">
+    <div class="page-header"><h2>Tester Dashboard</h2></div>
+
+    <div *ngIf="loading" class="loading-state">Loading...</div>
+
+    <div *ngIf="!loading && dashboard">
+      <div class="stats-grid">
+        <div class="stat-card total">
+          <div class="stat-icon">🔬</div>
+          <div class="stat-info">
+            <div class="stat-value">{{ dashboard.statusCounts['Testing'] || 0 }}</div>
+            <div class="stat-label">In Testing</div>
+          </div>
+        </div>
+        <div class="stat-card open">
+          <div class="stat-icon">✅</div>
+          <div class="stat-info">
+            <div class="stat-value">{{ dashboard.statusCounts['Resolved'] || 0 }}</div>
+            <div class="stat-label">Resolved</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card recent-tickets">
+        <h3 class="card-title">Tickets Awaiting Testing</h3>
+        <div class="tickets-list">
+          <div *ngFor="let ticket of dashboard.recentTickets" class="ticket-item" (click)="viewTicket(ticket.id)">
+            <div class="ticket-main">
+              <span class="ticket-id">#{{ ticket.id }}</span>
+              <span class="ticket-title">{{ ticket.title }}</span>
+            </div>
+            <div class="ticket-meta">
+              <span class="badge" [class]="'badge-' + ticket.status.toLowerCase()">{{ ticket.status }}</span>
+            </div>
+          </div>
+          <div *ngIf="!dashboard.recentTickets.length" class="empty-state">No tickets in testing queue.</div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>

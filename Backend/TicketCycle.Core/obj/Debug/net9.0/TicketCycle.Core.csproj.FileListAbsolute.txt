@@ -1,0 +1,11 @@
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\bin\Debug\net9.0\TicketCycle.Core.deps.json
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\bin\Debug\net9.0\TicketCycle.Core.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\bin\Debug\net9.0\TicketCycle.Core.pdb
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\TicketCycle.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\TicketCycle.Core.AssemblyInfoInputs.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\TicketCycle.Core.AssemblyInfo.cs
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\TicketCycle.Core.csproj.CoreCompileInputs.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\TicketCycle.Core.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\refint\TicketCycle.Core.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\TicketCycle.Core.pdb
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Core\obj\Debug\net9.0\ref\TicketCycle.Core.dll

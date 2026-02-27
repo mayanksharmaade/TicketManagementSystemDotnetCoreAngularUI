@@ -1,0 +1,97 @@
+<div class="detail-container" *ngIf="!loading && ticket">
+  <div class="detail-header">
+    <button class="btn-back" (click)="goBack()">← Back</button>
+    <div class="ticket-title-row">
+      <h2>{{ ticket.title }}</h2>
+      <span class="badge" [class]="'badge-' + ticket.status.toLowerCase()">{{ ticket.status }}</span>
+    </div>
+    <div class="ticket-meta-bar">
+      <span class="meta-item">🎯 <strong>Priority:</strong>
+        <span class="badge priority-badge" [class]="'priority-' + ticket.priority.toLowerCase()">{{ ticket.priority }}</span>
+      </span>
+      <span class="meta-item">👤 <strong>Created by:</strong> {{ ticket.createdBy?.fullName }}</span>
+      <span class="meta-item">🧑‍💻 <strong>Assigned to:</strong> {{ ticket.assignedTo?.fullName || 'Unassigned' }}</span>
+      <span class="meta-item" *ngIf="ticket.dueDate">📅 <strong>Due:</strong> {{ ticket.dueDate | date:'mediumDate' }}</span>
+    </div>
+  </div>
+
+  <div class="detail-grid">
+    <div class="detail-main">
+      <!-- Description -->
+      <div class="card">
+        <h3>Description</h3>
+        <p class="description-text">{{ ticket.description }}</p>
+      </div>
+
+      <!-- Actions -->
+      <div class="card" *ngIf="availableTransitions.length">
+        <h3>Actions</h3>
+        <div class="actions-row">
+          <button *ngFor="let t of availableTransitions" class="btn-action" [style.background]="t.color" (click)="updateStatus(t.status)">
+            {{ t.label }}
+          </button>
+        </div>
+
+        <!-- Assign Developer (Manager only) -->
+        <div *ngIf="isManager && developers.length" class="assign-section">
+          <h4>Assign to Developer</h4>
+          <div class="assign-row">
+            <select #devSelect class="form-control">
+              <option value="">Select developer...</option>
+              <option *ngFor="let d of developers" [value]="d.id">{{ d.fullName }}</option>
+            </select>
+            <button class="btn btn-primary" (click)="assignTicket(+devSelect.value)" [disabled]="!devSelect.value">Assign</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Comments -->
+      <div class="card">
+        <h3>Comments ({{ ticket.comments.length }})</h3>
+        <div class="comments-list">
+          <div *ngFor="let c of ticket.comments" class="comment-item">
+            <div class="comment-header">
+              <div class="comment-avatar">{{ c.authorName.charAt(0) }}</div>
+              <div>
+                <span class="comment-author">{{ c.authorName }}</span>
+                <span class="comment-date">{{ c.createdAt | date:'MMM d, h:mm a' }}</span>
+              </div>
+            </div>
+            <p class="comment-body">{{ c.content }}</p>
+          </div>
+          <div *ngIf="!ticket.comments.length" class="empty-comments">No comments yet. Be the first to comment!</div>
+        </div>
+
+        <form [formGroup]="commentForm" (ngSubmit)="addComment()" class="comment-form">
+          <textarea formControlName="content" class="form-control" rows="3" placeholder="Add a comment..."></textarea>
+          <button type="submit" class="btn btn-primary" [disabled]="commentForm.invalid || submitting">
+            {{ submitting ? 'Posting...' : 'Post Comment' }}
+          </button>
+        </form>
+      </div>
+    </div>
+
+    <!-- History sidebar -->
+    <div class="detail-sidebar">
+      <div class="card">
+        <h3>History</h3>
+        <div class="history-list">
+          <div *ngFor="let h of ticket.history" class="history-item">
+            <div class="history-icon">🔄</div>
+            <div class="history-content">
+              <div class="history-transition">
+                <span class="badge sm" [class]="'badge-' + h.fromStatus.toLowerCase()">{{ h.fromStatus }}</span>
+                <span class="arrow">→</span>
+                <span class="badge sm" [class]="'badge-' + h.toStatus.toLowerCase()">{{ h.toStatus }}</span>
+              </div>
+              <div class="history-meta">{{ h.changedBy }} · {{ h.changedAt | date:'MMM d, h:mm a' }}</div>
+              <div *ngIf="h.note" class="history-note">{{ h.note }}</div>
+            </div>
+          </div>
+          <div *ngIf="!ticket.history.length" class="empty-comments">No history yet.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="loading" class="loading-state">Loading ticket...</div>

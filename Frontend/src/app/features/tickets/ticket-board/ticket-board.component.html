@@ -1,0 +1,28 @@
+<div class="board-container">
+  <div class="board-header">
+    <h2>Kanban Board</h2>
+    <p class="subtitle">Visual view of all ticket statuses</p>
+  </div>
+
+  <div *ngIf="loading" class="loading-state">Loading board...</div>
+
+  <div *ngIf="!loading" class="board-columns">
+    <div *ngFor="let col of columns" class="kanban-column">
+      <div class="column-header" [style.border-top-color]="col.color">
+        <span class="column-title">{{ col.title }}</span>
+        <span class="column-count" [style.background]="col.color">{{ col.tickets.length }}</span>
+      </div>
+      <div class="column-tickets">
+        <div *ngFor="let ticket of col.tickets" class="kanban-card" (click)="viewTicket(ticket.id)">
+          <div class="card-id">#{{ ticket.id }}</div>
+          <div class="card-title">{{ ticket.title }}</div>
+          <div class="card-footer">
+            <span class="badge priority-badge" [class]="'priority-' + ticket.priority.toLowerCase()">{{ ticket.priority }}</span>
+            <span class="assignee" *ngIf="ticket.assignedTo">{{ ticket.assignedTo.fullName }}</span>
+          </div>
+        </div>
+        <div *ngIf="!col.tickets.length" class="empty-column">No tickets</div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,55 @@
+<div class="page-container">
+  <div class="page-header">
+    <div>
+      <h2>{{ isMyTickets ? 'My Tickets' : 'All Tickets' }}</h2>
+      <p class="subtitle">{{ filteredTickets.length }} ticket(s) found</p>
+    </div>
+    <button *ngIf="isManager" class="btn btn-primary" (click)="createTicket()">+ Create Ticket</button>
+  </div>
+
+  <!-- Filters -->
+  <div class="filters-bar">
+    <input type="text" [(ngModel)]="searchText" (input)="applyFilters()" placeholder="🔍 Search tickets..." class="search-input" />
+    <select [(ngModel)]="filterStatus" (change)="applyFilters()" class="filter-select">
+      <option value="">All Statuses</option>
+      <option *ngFor="let s of statuses" [value]="s">{{ s }}</option>
+    </select>
+    <select [(ngModel)]="filterPriority" (change)="applyFilters()" class="filter-select">
+      <option value="">All Priorities</option>
+      <option *ngFor="let p of priorities" [value]="p">{{ p }}</option>
+    </select>
+  </div>
+
+  <div *ngIf="loading" class="loading-state">Loading tickets...</div>
+
+  <!-- Tickets Table -->
+  <div *ngIf="!loading" class="tickets-table-wrap">
+    <table class="tickets-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Title</th>
+          <th>Status</th>
+          <th>Priority</th>
+          <th>Assigned To</th>
+          <th>Created</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let ticket of filteredTickets" (click)="viewTicket(ticket.id)" class="ticket-row">
+          <td class="ticket-id">#{{ ticket.id }}</td>
+          <td class="ticket-title">{{ ticket.title }}</td>
+          <td><span class="badge" [class]="'badge-' + ticket.status.toLowerCase()">{{ ticket.status }}</span></td>
+          <td><span class="badge priority-badge" [class]="'priority-' + ticket.priority.toLowerCase()">{{ ticket.priority }}</span></td>
+          <td>{{ ticket.assignedTo?.fullName || '—' }}</td>
+          <td>{{ ticket.createdAt | date:'MMM d, y' }}</td>
+          <td><button class="btn-action" (click)="viewTicket(ticket.id); $event.stopPropagation()">View</button></td>
+        </tr>
+        <tr *ngIf="!filteredTickets.length">
+          <td colspan="7" class="empty-state">No tickets found matching your filters.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

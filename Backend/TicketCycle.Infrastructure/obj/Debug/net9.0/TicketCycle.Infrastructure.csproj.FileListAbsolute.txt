@@ -1,0 +1,17 @@
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\bin\Debug\net9.0\TicketCycle.Infrastructure.deps.json
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\bin\Debug\net9.0\TicketCycle.Infrastructure.runtimeconfig.json
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\bin\Debug\net9.0\TicketCycle.Infrastructure.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\bin\Debug\net9.0\TicketCycle.Infrastructure.pdb
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\bin\Debug\net9.0\TicketCycle.Core.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\bin\Debug\net9.0\TicketCycle.Core.pdb
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.AssemblyInfo.cs
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCy.7FDF58E4.Up2Date
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\refint\TicketCycle.Infrastructure.dll
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.pdb
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\TicketCycle.Infrastructure.genruntimeconfig.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.Infrastructure\obj\Debug\net9.0\ref\TicketCycle.Infrastructure.dll

@@ -1,0 +1,82 @@
+<div class="dashboard-layout">
+  <aside class="sidebar">
+    <div class="sidebar-brand"><span>🎫</span><span>TicketCycle</span></div>
+    <nav class="sidebar-nav">
+      <a class="nav-item active" routerLink="/dashboard/developer"><span>📊</span> Dashboard</a>
+      <a class="nav-item" routerLink="/tickets/my"><span>🎫</span> My Tickets</a>
+      <a class="nav-item" routerLink="/tickets/board"><span>📋</span> Kanban Board</a>
+    </nav>
+    <div class="sidebar-footer">
+      <div class="user-info">
+        <div class="user-avatar">{{ authService.currentUser?.fullName?.charAt(0) }}</div>
+        <div>
+          <div class="user-name">{{ authService.currentUser?.fullName }}</div>
+          <div class="user-role">{{ authService.currentUser?.role }}</div>
+        </div>
+      </div>
+      <button class="btn-logout" (click)="logout()">Logout</button>
+    </div>
+  </aside>
+
+  <main class="main-content">
+    <div class="page-header">
+      <h2>Developer Dashboard</h2>
+      <button class="btn btn-primary" (click)="viewMyTickets()">View My Tickets</button>
+    </div>
+
+    <div *ngIf="loading" class="loading-state">Loading...</div>
+
+    <div *ngIf="!loading && dashboard">
+      <div class="stats-grid">
+        <div class="stat-card total">
+          <div class="stat-icon">📋</div>
+          <div class="stat-info">
+            <div class="stat-value">{{ dashboard.totalTickets }}</div>
+            <div class="stat-label">My Tickets</div>
+          </div>
+        </div>
+        <div class="stat-card open">
+          <div class="stat-icon">⚙️</div>
+          <div class="stat-info">
+            <div class="stat-value">{{ dashboard.statusCounts['WIP'] || 0 }}</div>
+            <div class="stat-label">In Progress</div>
+          </div>
+        </div>
+        <div class="stat-card closed">
+          <div class="stat-icon">✅</div>
+          <div class="stat-info">
+            <div class="stat-value">{{ dashboard.statusCounts['Resolved'] || 0 }}</div>
+            <div class="stat-label">Resolved</div>
+          </div>
+        </div>
+        <div class="stat-card progress">
+          <div class="stat-icon">🆕</div>
+          <div class="stat-info">
+            <div class="stat-value">{{ dashboard.statusCounts['Assigned'] || 0 }}</div>
+            <div class="stat-label">Newly Assigned</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card recent-tickets">
+        <div class="card-header">
+          <h3 class="card-title">My Recent Tickets</h3>
+          <a routerLink="/tickets/my" class="view-all">View All →</a>
+        </div>
+        <div class="tickets-list">
+          <div *ngFor="let ticket of dashboard.recentTickets" class="ticket-item" (click)="viewTicket(ticket.id)">
+            <div class="ticket-main">
+              <span class="ticket-id">#{{ ticket.id }}</span>
+              <span class="ticket-title">{{ ticket.title }}</span>
+            </div>
+            <div class="ticket-meta">
+              <span class="badge" [class]="'badge-' + ticket.status.toLowerCase()">{{ ticket.status }}</span>
+              <span class="badge priority-badge" [class]="'priority-' + ticket.priority.toLowerCase()">{{ ticket.priority }}</span>
+            </div>
+          </div>
+          <div *ngIf="!dashboard.recentTickets.length" class="empty-state">No tickets assigned to you yet.</div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>

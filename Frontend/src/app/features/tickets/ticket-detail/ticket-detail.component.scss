@@ -1,0 +1,110 @@
+.detail-container {
+  padding: 32px;
+  background: #f0f2f5;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.btn-back {
+  background: none; border: none; color: #667eea; cursor: pointer; font-size: 0.9rem; font-weight: 600; padding: 0; margin-bottom: 16px;
+  &:hover { text-decoration: underline; }
+}
+
+.detail-header {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+
+  .ticket-title-row {
+    display: flex; align-items: center; gap: 12px; margin-bottom: 12px;
+    h2 { font-size: 1.4rem; font-weight: 700; color: #1e1b4b; margin: 0; }
+  }
+
+  .ticket-meta-bar {
+    display: flex; flex-wrap: wrap; gap: 16px;
+    .meta-item { font-size: 0.85rem; color: #6b7280; display: flex; align-items: center; gap: 6px; }
+  }
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 24px;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  margin-bottom: 20px;
+  h3 { font-size: 1rem; font-weight: 700; color: #1e1b4b; margin: 0 0 16px; }
+}
+
+.description-text { color: #374151; line-height: 1.7; white-space: pre-wrap; }
+
+.actions-row { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px; }
+.btn-action {
+  padding: 8px 18px; border: none; border-radius: 8px; color: white; cursor: pointer; font-weight: 600; font-size: 0.9rem;
+  &:hover { opacity: 0.85; }
+}
+
+.assign-section {
+  border-top: 1px solid #f0f0f0; padding-top: 16px;
+  h4 { font-size: 0.9rem; font-weight: 600; color: #374151; margin: 0 0 10px; }
+  .assign-row { display: flex; gap: 10px; }
+  .form-control { flex: 1; padding: 8px 12px; border: 2px solid #e5e7eb; border-radius: 8px; font-size: 0.9rem; }
+  .btn { padding: 8px 16px; }
+}
+
+.btn { padding: 10px 20px; border-radius: 8px; border: none; cursor: pointer; font-weight: 600; font-size: 0.9rem;
+  &.btn-primary { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; &:hover { opacity: 0.9; }; &:disabled { opacity: 0.5; } }
+}
+
+.comments-list { display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px; }
+.comment-item {
+  .comment-header { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+  .comment-avatar { width: 32px; height: 32px; border-radius: 50%; background: #667eea; color: white; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 0.85rem; }
+  .comment-author { font-weight: 600; font-size: 0.9rem; color: #1e1b4b; }
+  .comment-date { font-size: 0.75rem; color: #9ca3af; margin-left: 8px; }
+  .comment-body { color: #374151; font-size: 0.9rem; line-height: 1.5; margin: 0; padding-left: 42px; }
+}
+
+.comment-form {
+  display: flex; flex-direction: column; gap: 10px;
+  .form-control { padding: 10px 14px; border: 2px solid #e5e7eb; border-radius: 8px; font-size: 0.9rem; resize: vertical; &:focus { outline: none; border-color: #667eea; } }
+  .btn { align-self: flex-end; }
+}
+
+.history-list { display: flex; flex-direction: column; gap: 12px; }
+.history-item {
+  display: flex; gap: 10px;
+  .history-icon { font-size: 1rem; margin-top: 2px; }
+  .history-transition { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+  .arrow { color: #9ca3af; font-size: 0.8rem; }
+  .history-meta { font-size: 0.75rem; color: #9ca3af; }
+  .history-note { font-size: 0.8rem; color: #6b7280; margin-top: 4px; font-style: italic; }
+}
+
+.badge {
+  padding: 3px 10px; border-radius: 12px; font-size: 0.75rem; font-weight: 600;
+  &.sm { padding: 2px 8px; font-size: 0.7rem; }
+  &-new { background: #dbeafe; color: #1d4ed8; }
+  &-assigned { background: #ede9fe; color: #6d28d9; }
+  &-wip { background: #fef3c7; color: #92400e; }
+  &-resolved { background: #d1fae5; color: #065f46; }
+  &-testing { background: #cffafe; color: #155e75; }
+  &-closed { background: #f3f4f6; color: #374151; }
+  &-rejected { background: #fee2e2; color: #991b1b; }
+}
+.priority-badge {
+  &.priority-low { background: #d1fae5; color: #065f46; }
+  &.priority-medium { background: #fef3c7; color: #92400e; }
+  &.priority-high { background: #fee2e2; color: #991b1b; }
+  &.priority-critical { background: #fee2e2; color: #7f1d1d; }
+}
+
+.empty-comments { color: #9ca3af; font-size: 0.85rem; text-align: center; padding: 20px; }
+.loading-state { text-align: center; padding: 60px; color: #9ca3af; }

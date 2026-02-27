@@ -1,0 +1,46 @@
+<div class="auth-container">
+  <div class="auth-card">
+    <div class="auth-header">
+      <div class="logo">
+        <span class="logo-icon">🎫</span>
+        <h1>TicketCycle</h1>
+      </div>
+      <p>Sign in to your account</p>
+    </div>
+
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()" class="auth-form">
+      <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+      <div class="form-group">
+        <label for="email">Email Address</label>
+        <input id="email" type="email" formControlName="email" class="form-control"
+          placeholder="you@example.com"
+          [class.is-invalid]="loginForm.get('email')?.invalid && loginForm.get('email')?.touched" />
+        <div class="invalid-feedback">Please enter a valid email.</div>
+      </div>
+
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input id="password" type="password" formControlName="password" class="form-control"
+          placeholder="••••••••"
+          [class.is-invalid]="loginForm.get('password')?.invalid && loginForm.get('password')?.touched" />
+        <div class="invalid-feedback">Password is required.</div>
+      </div>
+
+      <button type="submit" class="btn btn-primary btn-block" [disabled]="loading">
+        <span *ngIf="loading" class="spinner"></span>
+        {{ loading ? 'Signing in...' : 'Sign In' }}
+      </button>
+    </form>
+
+    <div class="auth-footer">
+      <p>Don't have an account? <a routerLink="/auth/register">Register</a></p>
+      <div class="demo-credentials">
+        <h4>Demo Credentials</h4>
+        <p>Manager: manager&#64;ticketcycle.com / Manager&#64;123</p>
+<p>Developer: developer&#64;ticketcycle.com / Developer&#64;123</p>
+<p>Tester: tester&#64;ticketcycle.com / Tester&#64;123</p>
+      </div>
+    </div>
+  </div>
+</div>
