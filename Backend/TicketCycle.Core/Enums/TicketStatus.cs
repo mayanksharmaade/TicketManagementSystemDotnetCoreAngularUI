@@ -1,5 +1,6 @@
 namespace TicketCycle.Core.Enums
 {
+    // ------ Ticket ------
     public enum TicketStatus
     {
         New = 1,
@@ -19,10 +20,47 @@ namespace TicketCycle.Core.Enums
         Critical = 4
     }
 
+    // ----User --------
     public enum UserRole
     {
         Manager = 1,
         Developer = 2,
         Tester = 3
+    }
+
+    // ------ Project --------
+    public enum ProjectStatus
+    {
+        Active = 1,
+        OnHold = 2,
+        Completed = 3,
+        Cancelled = 4
+    }
+
+    // ---- Sprint -------
+    public enum SprintStatus
+    {
+        Planning = 1,
+        Active = 2,
+        Completed = 3,
+        Cancelled = 4
+    }
+
+    // --- Test Script -----
+    public enum TestScriptStatus
+    {
+        Draft = 1,
+        Active = 2,
+        Passed = 3,
+        Failed = 4
+    }
+
+    // ---- Test Step -----
+    public enum TestStepStatus
+    {
+        NotRun = 1,
+        Passed = 2,
+        Failed = 3,
+        Blocked = 4
     }
 }

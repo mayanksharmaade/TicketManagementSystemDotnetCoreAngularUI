@@ -6,10 +6,7 @@ using TicketCycle.Infrastructure.Data;
 
 namespace TicketCycle.Infrastructure.Repositories
 {
-    // ─────────────────────────────────────────────────────────────
-    // Infrastructure Layer - Ticket Repository
-    // ONLY handles data access - no business logic here
-    // ─────────────────────────────────────────────────────────────
+    
     public class TicketRepository : GenericRepository<Ticket>, ITicketRepository
     {
         public TicketRepository(AppDbContext context) : base(context) { }

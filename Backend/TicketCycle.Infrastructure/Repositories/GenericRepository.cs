@@ -5,10 +5,7 @@ using TicketCycle.Infrastructure.Data;
 
 namespace TicketCycle.Infrastructure.Repositories
 {
-    // ─────────────────────────────────────────────────────────────
-    // Infrastructure Layer - Generic Repository
-    // Implements basic CRUD for ANY entity
-    // ─────────────────────────────────────────────────────────────
+  
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
         protected readonly AppDbContext _context;

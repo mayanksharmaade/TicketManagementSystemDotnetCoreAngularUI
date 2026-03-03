@@ -6,10 +6,7 @@ using TicketCycle.Infrastructure.Data;
 
 namespace TicketCycle.Infrastructure.Repositories
 {
-    // ─────────────────────────────────────────────────────────────
-    // Infrastructure Layer - User Repository
-    // ONLY handles data access - no business logic here
-    // ─────────────────────────────────────────────────────────────
+  
     public class UserRepository : GenericRepository<User>, IUserRepository
     {
         public UserRepository(AppDbContext context) : base(context) { }

@@ -13,4 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\TicketCycle.Core\TicketCycle.Core.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+  </ItemGroup>
 </Project>
