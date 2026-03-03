@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\services\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\isprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\isprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\itestscriptservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\itestscriptservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|TicketCycle.API\\TicketCycle.API.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.api\\controllers\\testscriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|TicketCycle.API\\TicketCycle.API.csproj|solutionrelative:ticketcycle.api\\controllers\\testscriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\testscriptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\services\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\services\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\subtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,26 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\itestscriptservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\itestscriptservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\isubtaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\isprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\isprintservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-0123-DEFA-234567890123}|TicketCycle.Infrastructure\\TicketCycle.Infrastructure.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.infrastructure\\repositories\\testscriptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -219,10 +231,6 @@
       "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-8901-BCDE-F12345678901}|TicketCycle.Core\\TicketCycle.Core.csproj|solutionrelative:ticketcycle.core\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -233,14 +241,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iapplicationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3D4E5F6-A7B8-9012-CDEF-123456789012}|TicketCycle.Application\\TicketCycle.Application.csproj|solutionrelative:ticketcycle.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4E5F6A7-B8C9-0123-DEFA-234567890123}|TicketCycle.Infrastructure\\TicketCycle.Infrastructure.csproj|c:\\users\\mayan\\ticketmanagementsystem\\backend\\ticketcycle.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -306,7 +306,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -314,176 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestScriptsController.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\TestScriptsController.cs",
-              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\TestScriptsController.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\TestScriptsController.cs",
-              "RelativeToolTip": "TicketCycle.API\\Controllers\\TestScriptsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:24:07.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AttachmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\AttachmentsController.cs",
-              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\AttachmentsController.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\AttachmentsController.cs",
-              "RelativeToolTip": "TicketCycle.API\\Controllers\\AttachmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:22:37.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SubtasksController.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SubtasksController.cs",
-              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\SubtasksController.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SubtasksController.cs",
-              "RelativeToolTip": "TicketCycle.API\\Controllers\\SubtasksController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:22:09.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SprintsController.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SprintsController.cs",
-              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\SprintsController.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SprintsController.cs",
-              "RelativeToolTip": "TicketCycle.API\\Controllers\\SprintsController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:20:40.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\ProjectsController.cs",
-              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\ProjectsController.cs",
-              "RelativeToolTip": "TicketCycle.API\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:20:06.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TestScriptService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\TestScriptService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\TestScriptService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\TestScriptService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Services\\TestScriptService.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:12:10.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AttachmentService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\AttachmentService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\AttachmentService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\AttachmentService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Services\\AttachmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:11:39.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SubtaskService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SubtaskService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\SubtaskService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SubtaskService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Services\\SubtaskService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:10:46.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SprintService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SprintService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\SprintService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SprintService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Services\\SprintService.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:09:36.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "TicketCycle.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T13:07:04.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\ProjectService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\ProjectService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\ProjectService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Services\\ProjectService.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:08:33.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ITestScriptServicecs.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:05:44.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IAttachmentService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:04:30.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "ISubtaskService.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ISubtaskService.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\ISubtaskService.cs",
@@ -496,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "ISprintService.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ISprintService.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\ISprintService.cs",
@@ -509,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "IProjectService.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IProjectService.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IProjectService.cs",
@@ -522,7 +353,206 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAttachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\IAttachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:04:30.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IApplicationServices.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:30:33.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\AttachmentService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\AttachmentService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\AttachmentService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Services\\AttachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:11:39.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITestScriptServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\ITestScriptServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:05:44.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:32:37.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:31:35.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestScriptsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\TestScriptsController.cs",
+              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\TestScriptsController.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\TestScriptsController.cs",
+              "RelativeToolTip": "TicketCycle.API\\Controllers\\TestScriptsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:24:07.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestScriptService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\TestScriptService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\TestScriptService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\TestScriptService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Services\\TestScriptService.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:12:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "TicketCycle.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:20:06.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SprintsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SprintsController.cs",
+              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\SprintsController.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SprintsController.cs",
+              "RelativeToolTip": "TicketCycle.API\\Controllers\\SprintsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:20:40.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubtasksController.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SubtasksController.cs",
+              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\SubtasksController.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\SubtasksController.cs",
+              "RelativeToolTip": "TicketCycle.API\\Controllers\\SubtasksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:22:09.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttachmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\AttachmentsController.cs",
+              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\AttachmentsController.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\AttachmentsController.cs",
+              "RelativeToolTip": "TicketCycle.API\\Controllers\\AttachmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:22:37.52Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "SubtaskService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SubtaskService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\SubtaskService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SubtaskService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Services\\SubtaskService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:10:46.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SprintService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SprintService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\SprintService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\SprintService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Services\\SprintService.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:09:36.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TicketCycle.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TicketCycle.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:07:04.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\ProjectService.cs",
+              "RelativeToolTip": "TicketCycle.Application\\Services\\ProjectService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:08:33.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "TestScriptRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Repositories\\TestScriptRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Repositories\\TestScriptRepository.cs",
@@ -530,12 +560,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Repositories\\TestScriptRepository.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:53:42.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:53:42.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AttachmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Repositories\\AttachmentRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Repositories\\AttachmentRepository.cs",
@@ -543,12 +572,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Repositories\\AttachmentRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAIA/wCQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:52:38.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:52:38.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "SubtaskRespository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Repositories\\SubtaskRespository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Repositories\\SubtaskRespository.cs",
@@ -556,12 +584,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Repositories\\SubtaskRespository.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:51:39.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:51:39.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "SprintRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Repositories\\SprintRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Repositories\\SprintRepository.cs",
@@ -569,12 +596,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Repositories\\SprintRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAywCkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:50:47.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:50:47.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ProjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Repositories\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Repositories\\ProjectRepository.cs",
@@ -582,12 +608,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Repositories\\ProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T11:49:21.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T11:49:21.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Repositories\\GenericRepository.cs",
@@ -595,12 +620,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:56:35.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:56:35.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Interfaces\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Interfaces\\IProjectRepository.cs",
@@ -608,12 +632,11 @@
               "RelativeToolTip": "TicketCycle.Core\\Interfaces\\IProjectRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:19:17.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T10:19:17.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "UpdateTicketStatusDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\UpdateTicketStatusDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\UpdateTicketStatusDto.cs",
@@ -625,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\UserDto.cs",
@@ -637,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\Project.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\Project.cs",
@@ -649,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TicketCycle.Infrastructure\\Data\\AppDbContext.cs",
@@ -657,12 +680,11 @@
               "RelativeToolTip": "TicketCycle.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAE8BAAAAAAAAAAAAAFcBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T13:48:19.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T13:48:19.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ISprintRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Interfaces\\ISprintRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Interfaces\\ISprintRepository.cs",
@@ -670,12 +692,11 @@
               "RelativeToolTip": "TicketCycle.Core\\Interfaces\\ISprintRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:20:24.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T10:20:24.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "ISubtaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Interfaces\\ISubtaskRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Interfaces\\ISubtaskRepository.cs",
@@ -683,12 +704,11 @@
               "RelativeToolTip": "TicketCycle.Core\\Interfaces\\ISubtaskRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:21:11.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T10:21:11.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "IAttachmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Interfaces\\IAttachmentRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Interfaces\\IAttachmentRepository.cs",
@@ -696,12 +716,11 @@
               "RelativeToolTip": "TicketCycle.Core\\Interfaces\\IAttachmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:49:01.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T10:49:01.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ITestscriptRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Interfaces\\ITestscriptRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Interfaces\\ITestscriptRepository.cs",
@@ -709,12 +728,11 @@
               "RelativeToolTip": "TicketCycle.Core\\Interfaces\\ITestscriptRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T10:51:10.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T10:51:10.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "AssignTicketDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\AssignTicketDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\AssignTicketDto.cs",
@@ -726,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "TestScript.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\TestScript.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\TestScript.cs",
@@ -738,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Interfaces\\IGenericRepository.cs",
@@ -746,12 +764,11 @@
               "RelativeToolTip": "TicketCycle.Core\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T12:54:47.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T12:54:47.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "AddCommentDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\AddCommentDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\AddCommentDto.cs",
@@ -763,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "AttachmentDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\AttachmentDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\AttachmentDto.cs",
@@ -775,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\AuthResponseDto.cs",
@@ -787,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "CommentDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\CommentDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\CommentDto.cs",
@@ -799,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "CreateTicketDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\CreateTicketDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\CreateTicketDto.cs",
@@ -811,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "DashboardDTO.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\DashboardDTO.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\DashboardDTO.cs",
@@ -823,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "HistoryDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\HistoryDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\HistoryDto.cs",
@@ -835,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\LoginDto.cs",
@@ -847,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "ProjectDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\ProjectDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\ProjectDto.cs",
@@ -859,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "SprintDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\SprintDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\SprintDto.cs",
@@ -871,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "SubTaskDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\SubTaskDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\SubTaskDto.cs",
@@ -883,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "TestLogDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\TestLogDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\TestLogDto.cs",
@@ -895,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 50,
               "Title": "TestScriptDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\TestScriptDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\TestScriptDto.cs",
@@ -907,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 51,
               "Title": "TestLog.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\TestLog.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\TestLog.cs",
@@ -919,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\DTOs\\RegisterDto.cs",
@@ -931,7 +948,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 52,
               "Title": "Attachment.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\Attachment.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\Attachment.cs",
@@ -943,7 +960,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 53,
               "Title": "Subtask.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\Subtask.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\Subtask.cs",
@@ -955,7 +972,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 54,
               "Title": "Sprint.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\Sprint.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\Sprint.cs",
@@ -967,7 +984,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 55,
               "Title": "TicketComment.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Entities\\TicketComment.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Entities\\TicketComment.cs",
@@ -979,7 +996,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 56,
               "Title": "TicketStatus.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Core\\Enums\\TicketStatus.cs",
               "RelativeDocumentMoniker": "TicketCycle.Core\\Enums\\TicketStatus.cs",
@@ -991,19 +1008,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "ITicketService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITicketService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\ITicketService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\ITicketService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\ITicketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T08:32:37.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\UserService.cs",
@@ -1015,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "TicketService.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\TicketService.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\TicketService.cs",
@@ -1027,7 +1032,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TicketCycle.Application\\Services\\AuthService.cs",
@@ -1036,30 +1041,6 @@
               "ViewState": "AgIAAFsAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T08:32:52.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "IApplicationServices.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\IApplicationServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T08:30:33.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "TicketCycle.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\mayan\\TicketManagementSystem\\Backend\\TicketCycle.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "TicketCycle.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T08:31:35.893Z"
             },
             {
               "$type": "Document",

@@ -1,3 +1,11 @@
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.csproj.AssemblyReference.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.AssemblyInfoInputs.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.AssemblyInfo.cs
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.csproj.CoreCompileInputs.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.sourcelink.json
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\appsettings.json
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\TicketCycle.API.staticwebassets.endpoints.json
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\TicketCycle.API.exe
@@ -138,14 +146,7 @@ C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\T
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\TicketCycle.Core.pdb
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\TicketCycle.Application.pdb
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\bin\Debug\net9.0\TicketCycle.Infrastructure.pdb
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.csproj.AssemblyReference.cache
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.AssemblyInfoInputs.cache
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.AssemblyInfo.cs
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.csproj.CoreCompileInputs.cache
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -154,6 +155,7 @@ C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\s
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCy.9BD2AAB4.Up2Date
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\TicketCycle.API.dll
 C:\Users\mayan\TicketManagementSystem\Backend\TicketCycle.API\obj\Debug\net9.0\refint\TicketCycle.API.dll
